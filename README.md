@@ -98,5 +98,20 @@ Add this line with you desire time to automate your backup script
 
 ## Telegram BOt
 
-## Definitions 
+### Definitions 
 we have big dicotionary for able to multilanguage bot 
+
+### Admin Guide 
+
+we have some command for administrator 
+
+- /addapi "for add openai api"(you can provide many APIs thats usefull when some api break down another one working)
+- /getapi "show all api with status" ***green(active) - red(deactivate) - yellow(pending)***
+
+- /addoffer "add offer code for discount system" ***need duration days and discount persent***
+
+- /charge "charge user token manually" ***needs user id(chat_id) and tokens needs***
+
+- /message "send global message to all users" ***needs your message and you sign to send***
+
+
