@@ -115,3 +115,7 @@ we have some command for administrator
 - /message "send global message to all users" ***needs your message and you sign to send***
 
 
+## Supprt me
+
+[buy me a coffee](https://www.buymeacoffee.com/mrkataei)
+
